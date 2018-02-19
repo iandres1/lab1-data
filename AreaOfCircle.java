@@ -7,5 +7,6 @@ public class AreaOfCircle {
 		double area = Math.PI * (Math.pow(radius, 2));
 		
 		System.out.println(area);
+		System.out.println(area/2);
 	}
 }
